@@ -13,7 +13,7 @@ while True:
         prices.append(price)
 
 print('''
-    ----YOUR CART----
+    -----YOUR CART-----
       ''')
 print('   ITEM','  PRICE',sep='\t\t')
 
